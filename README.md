@@ -1,2 +1,2 @@
 # ClosePair
-Debería hallar el par de coordenadas más cercano.
+You should find the closest coordinate pair.
