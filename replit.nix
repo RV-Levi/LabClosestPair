@@ -1,5 +1,6 @@
 { pkgs }: {
     deps = [
+        pkgs.python39Packages.pip
         pkgs.graalvm17-ce
         pkgs.maven
         pkgs.replitPackages.jdt-language-server
